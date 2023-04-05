@@ -1,0 +1,30 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gucci",
+    "lint": "npx eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moaaskt/unit_test.git"
+  },
+  "keywords": [
+    "ESlint"
+  ],
+  "author": "Moacir silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moaaskt/unit_test/issues"
+  },
+  "homepage": "https://github.com/moaaskt/unit_test",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "install": "^0.13.0",
+    "mocha": "^10.2.0"
+  }
+}
